@@ -1,6 +1,6 @@
 <template>
     <div class="columns is-centered">
-        <div class="column is-two-thirds-desktop is-full-touch">
+        <div class="column is-half-desktop is-full-touch">
             <enso-form class="box"
                 :key="key"
                 @ready="form = $event.form"
