@@ -1,7 +1,7 @@
 {
   "name": "@enso-ui/google",
   "version": "3.1.4",
-  "description": "google package",
+  "description": "Google integration settings pages for Enso UI",
   "main": "src/bulma/pages/integrations/settings/Index.vue",
   "repository": {
     "type": "git",
